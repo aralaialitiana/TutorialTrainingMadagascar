@@ -1,0 +1,89 @@
+    1  ls
+    2  pwd
+    3  cd .
+    4  pwd
+    5  cd ..
+    6  pwd
+    7  ls
+    8  cd f:
+    9  pwd
+   10  mkdir alain
+   11  pwd
+   12  cd alain
+   13  cd alain
+   14  pwd
+   15  touch text_file.txt
+   16  cat text_file
+   17  cat text_file.txt
+   18  wc -l text_file.txt
+   19  ls >list_of_files.txt
+   20  cat list_of_files.txt
+   21  wc -l list_of_files.txt
+   22  ls /dev / wc -l
+   23  ls /dev /wc -l
+   24  ps -ef
+   25  ps
+   26  ls file*
+   27  ls
+   28  ls
+   29  mkdir project1
+   30  ls
+   31  cd project1/
+   32  ls
+   33  git init
+   34  touch test.txt
+   35  gitadd .
+   36  git add .
+   37  git commit -m "test"
+   38  cd ..
+   39  rm -r project1/
+   40  y
+   41  ls
+   42  mkdir MyNewexcingProject
+   43  pwd
+   44  cd MyNexexcitingProject
+   45  pwd
+   46  mkdir MyNewExcitingProject
+   47  cd MyNewExcitingProject
+   48  pwd
+   49  git init
+   50  ls
+   51  ls -a
+   52  git status
+   53  git status
+   54  git init
+   55  git status
+   56  git add .
+   57  git status
+   58  ls
+   59  ls -a
+   60  git init
+   61  git status
+   62  git cls
+   63  git status
+   64  ls
+   65  git status
+   66  git add .
+   67  git status
+   68  git commit -m "Fist commit of my files"
+   69  git config --global user.email "fenorazafi@yahoo.fr"
+   70  git --global user.name "fenorazafi"
+   71  git config --global  user.name "fenorazafi"
+   72  git log
+   73  git status
+   74  git diff
+   75  git add .
+   76  git status
+   77  git commit -m "Somenew lines in first file"
+   78  git status
+   79  git add .
+   80  git status
+   81  git lod
+   82  git log
+   83  git commit -m "Some new lines in first file"
+   84  git log
+   85  git status
+   86  git checkout -- .
+   87  git log
+   88  history
+   89  history > git_cmd.txt
